@@ -1,3 +1,5 @@
+# extractor.py
+
 import fitz  # PyMuPDF
 import docx2txt
 
