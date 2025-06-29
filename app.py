@@ -1,3 +1,5 @@
+# app.py
+
 from flask import Flask, request, render_template
 from utils.extractor import extract_text
 from utils.screener import score_cv
